@@ -8,9 +8,6 @@
     "start": "node index.js",
     "dev": "nodemon index"
   },
-  "engines":{
-    "node": ">=16.0.0"
-  },
   "author": "david calderon",
   "license": "ISC",
   "dependencies": {
